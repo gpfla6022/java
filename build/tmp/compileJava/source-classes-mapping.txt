@@ -1,0 +1,10 @@
+main.java
+ main
+Data_and_operation/Number.java
+ Data_and_operation.Number
+Data_and_operation/StringApp.java
+ Data_and_operation.StringApp
+Data_and_operation/Variable.java
+ Data_and_operation.Variable
+Data_and_operation/DataType.java
+ Data_and_operation.DataType

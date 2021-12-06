@@ -32,3 +32,7 @@ Programming/org/opentutorials/iot/Speaker.java
  Programming.org.opentutorials.iot.Speaker
 Programming/OkJavaGoinHome.java
  Programming.OkJavaGoinHome
+Programming/OkJavaGoinHomeInput.java
+ Programming.OkJavaGoinHomeInput
+MyApp/AccountingApp.java
+ MyApp.AccountingApp
